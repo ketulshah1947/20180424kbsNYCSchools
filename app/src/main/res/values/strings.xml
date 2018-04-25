@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">20180424kbsNYCSchools</string>
+    <string name="default_error">Something went wrong!\nPlease try again.</string>
+    <string name="text_math">Math</string>
+    <string name="text_reading">Reading</string>
+    <string name="text_writing">Writing</string>
+    <string name="text_takers">Test\ntakers</string>
+</resources>
